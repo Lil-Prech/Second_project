@@ -1,0 +1,53 @@
+body{
+    margin-top: 5%;
+    margin-left: 35%;
+    align-items: center;
+}
+
+
+.nav {
+    align-items: center;
+    display: block;
+}
+
+.img-fluid{
+    position: relative;
+    left: 20%;
+   top:5%;
+}
+text{
+    position: relative;
+    left: 10%; 
+}
+
+p{
+    position: relative;
+    left: 20%;  
+    font-size: 16px;  
+}
+.dashboard{
+    max-width:70%;
+}
+span  {
+    color: rgb(190, 190, 184);
+    font-size: 40px;
+}
+b{
+    font-size: 30px;
+}
+#btnrequest{
+    border-radius: 15px;
+    padding: 10px 40px;
+      background-color: hsl(223, 87%, 63%);
+}
+input{
+   border-radius: 15px;
+    padding: 10px 80px; 
+}
+ion-icon{
+    align-items: center;
+    display: flex;
+    float: left;
+    text-decoration: none;
+    left: 80%;
+}
